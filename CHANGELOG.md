@@ -1,5 +1,9 @@
 # Changelog
 
+# 13.0.1
+
+ * Genesis firmware updates.
+
 # 13.0.0
 
  * Nerves system upgrade
